@@ -3,6 +3,7 @@
 @import "./utility/colors.css";
 @import "./utility/components.css";
 @import "./utility/formulario.css";
+@import "./utility/animacao.css";
 
 /* Global */
 @import "./global/header.css";
